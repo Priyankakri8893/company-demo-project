@@ -1,0 +1,19 @@
+{
+  "name": "company_demo_project",
+  "version": "1.0.0",
+  "description": "this project is company demo project . which type of project given by company to employ. this project show the which type of project given by company .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyankakri8893/company-demo-project.git"
+  },
+  "author": "Priyanka kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyankakri8893/company-demo-project/issues"
+  },
+  "homepage": "https://github.com/Priyankakri8893/company-demo-project#readme"
+}
