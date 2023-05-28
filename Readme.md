@@ -9,11 +9,11 @@ exist in the database and just define the project structure.
 2. Delete customer. [DELETE]
 3. Create new customer [POST]
 
-# Card API
+## Card API
 1. Get all Card List[GET]
 2. Create new card [POST]
 
-# Customer collection field:
+## Customer collection field:
 Field Type Description
 firstName string
 lastName string
@@ -24,7 +24,7 @@ address string
 customerID string UUID
 status string ACTIVE / INACTIVE
 
-# Card collection field:
+## Card collection field:
 
 Field Type Description
 cardNumber string Auto_increment e.g: C001
