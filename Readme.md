@@ -23,7 +23,7 @@ emailID string abc@xyz.com
 address string
 customerID string UUID
 status string ACTIVE / INACTIVE
-
+-------------------------------------------------------------------------------------------------------------------------------
 ## Card collection field:
 
 Field Type Description
