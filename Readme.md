@@ -12,7 +12,7 @@ exist in the database and just define the project structure.
 ## Card API
 1. Get all Card List[GET]
 2. Create new card [POST]
-
+--------------------------------------------------------------------------------------------------------------------------------
 ## Customer collection field:
 Field Type Description
 firstName string
